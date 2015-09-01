@@ -1,6 +1,6 @@
-# Casper
+# Janna
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+A theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
 
